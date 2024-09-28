@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = murder
+  speed = 1
+  fov = 85
+  angle = 25
+  start_rotation = 0
+}

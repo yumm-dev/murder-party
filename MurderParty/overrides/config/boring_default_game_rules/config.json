@@ -1,0 +1,19 @@
+{
+	"$schema": "file:///C:/Users/Marcy/AppData/Roaming/ATLauncher/instances/MurderMystery/config/boring_default_game_rules/config.schema.json",
+	"default_game_rules": {
+		"announceAdvancements": false,
+		"doDaylightCycle": false,
+		"doFireTick": false,
+		"doImmediateRespawn": true,
+		"doLimitedCrafting": true,
+		"doMobSpawning": false,
+		"doVinesSpread": false,
+		"doWeatherCycle": false,
+		"drowningDamage": false,
+		"keepInventory": true,
+		"showDeathMessages": false,
+		"spawnRadius": 0,
+		"spectatorsGenerateChunks": false
+	},
+	"generate_json_schema": true
+}

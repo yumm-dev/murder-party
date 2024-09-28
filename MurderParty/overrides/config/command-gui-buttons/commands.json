@@ -1,0 +1,14 @@
+[
+  {
+    "displayName": "Start Game",
+    "raw": [
+      "/trigger startgame"
+    ]
+  },
+  {
+    "displayName": "Reset Game",
+    "raw": [
+      "/trigger resetgame"
+    ]
+  }
+]

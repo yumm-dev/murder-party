@@ -1,0 +1,189 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "quilt-0.26.4",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Murder Party Clients",
+  "version": "1.20.1",
+  "author": "Marcy",
+  "files": [
+    {
+      "projectID": 459857,
+      "fileID": 4810977,
+      "required": true
+    },
+    {
+      "projectID": 310205,
+      "fileID": 4606487,
+      "required": true
+    },
+    {
+      "projectID": 552542,
+      "fileID": 4754074,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 4765724,
+      "required": true
+    },
+    {
+      "projectID": 547434,
+      "fileID": 4583000,
+      "required": true
+    },
+    {
+      "projectID": 495546,
+      "fileID": 4706336,
+      "required": true
+    },
+    {
+      "projectID": 411557,
+      "fileID": 4577194,
+      "required": true
+    },
+    {
+      "projectID": 224713,
+      "fileID": 4615222,
+      "required": true
+    },
+    {
+      "projectID": 365615,
+      "fileID": 4593395,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 5162837,
+      "required": true
+    },
+    {
+      "projectID": 623806,
+      "fileID": 5355370,
+      "required": true
+    },
+    {
+      "projectID": 949555,
+      "fileID": 5430253,
+      "required": true
+    },
+    {
+      "projectID": 661892,
+      "fileID": 5407372,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 5743155,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 5672090,
+      "required": true
+    },
+    {
+      "projectID": 546670,
+      "fileID": 5672153,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 5672336,
+      "required": true
+    },
+    {
+      "projectID": 676136,
+      "fileID": 5200948,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 5676012,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5230279,
+      "required": true
+    },
+    {
+      "projectID": 442735,
+      "fileID": 5287094,
+      "required": true
+    },
+    {
+      "projectID": 634179,
+      "fileID": 5519038,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 5485654,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 5424129,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4646681,
+      "required": true
+    },
+    {
+      "projectID": 495476,
+      "fileID": 5707406,
+      "required": true
+    },
+    {
+      "projectID": 969424,
+      "fileID": 5076059,
+      "required": true
+    },
+    {
+      "projectID": 858542,
+      "fileID": 5284014,
+      "required": true
+    },
+    {
+      "projectID": 416797,
+      "fileID": 5142502,
+      "required": true
+    },
+    {
+      "projectID": 938643,
+      "fileID": 5139711,
+      "required": true
+    },
+    {
+      "projectID": 367706,
+      "fileID": 5340223,
+      "required": true
+    },
+    {
+      "projectID": 421649,
+      "fileID": 5331704,
+      "required": true
+    },
+    {
+      "projectID": 418881,
+      "fileID": 4749995,
+      "required": true
+    },
+    {
+      "projectID": 570368,
+      "fileID": 5594830,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
